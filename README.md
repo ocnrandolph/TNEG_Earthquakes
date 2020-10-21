@@ -1,4 +1,4 @@
-## Data Question 4: Web Scraping Earthquake Data
+## Data Question 3: Web Scraping Earthquake Data
 
 ### Part 1:
 Nate Silver discusses the difficulty of predicting earthquakes in **The Signal and the Noise**. Nevertheless, we will try to identify some patterns by analyzing the deadly earthquakes that have occurred since 1900.
